@@ -13,6 +13,10 @@
 IntelliJ IDEA 没有类似 Eclipse 工作空间（workspace）的概念
 Project 是最顶级的级别，次级别是 Module。一个 Project 可以有多个 Module。Project起到一个项目定义、范围约束、规范等类型的效果，可以简单地理解为就是一个单纯的目录。
 【创建一个新项目】
+变量环境
+JAVA_HOME
+JRE_HOME
+PATH
 
 
 
