@@ -4,4 +4,18 @@
     使用方法：把解压后 config 目录下的所有子目录覆盖到：C:\Users\你的电脑登录用户名\.IntelliJIdea2017.2\config 目录下（Mac 用户）
     导入后，你过去的一些配置可能会丢失，所以需要重新配置下，每个人都不一样，这需要你自己进行分析。
 
+2. UI界面
+【创建一个新 HTML 项目】
+3. UI 主题、字体、编辑区主题、文件编码修改、乱码问题
+4. IntelliJ IDEA 搜索快的原因：索引。file->invalidate caches/restart
+5. IntelliJ IDEA 下 Java 文件编译方式。Recompile/Rebuild/Build
+6. IntelliJ IDEA 下项目相关特有概念说明
+IntelliJ IDEA 没有类似 Eclipse 工作空间（workspace）的概念
+Project 是最顶级的级别，次级别是 Module。一个 Project 可以有多个 Module。Project起到一个项目定义、范围约束、规范等类型的效果，可以简单地理解为就是一个单纯的目录。
+【创建一个新项目】
+
+
+
+
+
 
