@@ -1,0 +1,7 @@
+参考：https://github.com/judasn/IntelliJ-IDEA-Tutorial
+
+1. 配置config
+    使用方法：把解压后 config 目录下的所有子目录覆盖到：C:\Users\你的电脑登录用户名\.IntelliJIdea2017.2\config 目录下（Mac 用户）
+    导入后，你过去的一些配置可能会丢失，所以需要重新配置下，每个人都不一样，这需要你自己进行分析。
+
+
